@@ -9,7 +9,7 @@ Aqui vocês podem fazer sugestões para o servidor, solicitação de sistemas e 
 
 * Este repositório não deve ser usado para reportar bugs ou denunciar usuários.
 * Não consideraremos issues de sugestões de promoção de players para staff.
-* Se você quiser ajuda para sugerior ou até mesmo tirar uma dúvida, você pode perguntar para alguém com o cargo de "❌┃Administrador Dark Clover" no nosso servidor no [Discord](https://discord.gg/rededark), eles sabem muito bem como ajudá-lo.
+* Se você precisar de ajuda para sugerir ou até mesmo tirar uma dúvida, você pode perguntar para alguém com o cargo de "❌┃Administrador Dark Clover" no nosso servidor no [Discord](https://discord.gg/rededark), eles sabem muito bem como ajudá-lo.
 
 # 🌎 Contribuindo
 
@@ -27,4 +27,4 @@ Você pode ver as sugestões com mais votos positivos [clicando aqui](https://gi
 
 # 📊 Gostaria de tirar uma dúvida!
 
-Se você quiser ajuda para sugerior ou até mesmo tirar uma dúvida, você pode perguntar para alguém com o cargo de "❌┃Administrador Dark Clover" no nosso servidor no [Discord](https://discord.gg/rededark), eles sabem muito bem como ajudá-lo.
+Se você precisar de ajuda para sugerir ou até mesmo tirar uma dúvida, você pode perguntar para alguém com o cargo de "❌┃Administrador Dark Clover" no nosso servidor no [Discord](https://discord.gg/rededark), eles sabem muito bem como ajudá-lo.
