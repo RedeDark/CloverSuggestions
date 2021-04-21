@@ -19,7 +19,7 @@ Não se esqueça de verificar se já não existe uma sugestão igual ou similar 
 
 # 🙋 Como posso votar nas minhas sugestões favoritas?
 
-Votar em uma sugestão ajuda a descobrir quais são as sugestões que os usuários da Loritta mais desejam nela!
+Votar em uma sugestão ajuda a descobrir quais são as sugestões que players & staffs mais desejam!
 
 Você pode ver todas as sugestões na nossa [lista de issues](https://github.com/RedeDark/CloverSuggestions/issues) e, para votar em uma, basta clicar na reação de 👍!
 
